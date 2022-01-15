@@ -1,0 +1,15 @@
+.half-width {
+    display: flex;
+    flex-direction: column;
+}
+.collection-container{
+    display:grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 30px;
+
+}
+.third{
+    display: flex;
+ flex-direction: column;
+ margin-bottom: 70px;
+}
